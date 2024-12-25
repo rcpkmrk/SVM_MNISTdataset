@@ -1,6 +1,6 @@
 # **Support Vector Machines (SVM) Multi-Classification on the MNIST Dataset**
 
-This project explores the use of Support Vector Machines for multi-class classification on the famous MNIST dataset, a benchmark dataset for handwritten digit recognition.
+This project explores the use of Support Vector Machines for multi-class classification on the famous MNIST dataset, a benchmark dataset for handwritten digit recognition. For details: https://yann.lecun.com/exdb/mnist/
 
 ## **How to improve the model performance?**
 - **Dimensionality Reduction**  
